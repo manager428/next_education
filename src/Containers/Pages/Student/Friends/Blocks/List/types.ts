@@ -1,0 +1,11 @@
+export enum TABS {
+  CLASSMATES = 'CLASSMATES',
+  FRIENDS = 'FRIENDS',
+  TEACHER = 'TEACHER',
+  RECEIVED_REQUESTS = 'RECEIVED REQUESTS',
+  SENT_REQUESTS = 'SENT REQUESTS',
+}
+
+export type Props = {
+  search: string
+}

@@ -1,0 +1,799 @@
+{
+  "language": "русский",
+
+  "locale": {
+    "en": "English",
+    "ru": "Russian"
+  },
+
+  "general": {
+    "slogan": "",
+    "copyright": "© %{appName}, all right reserved",
+    "pleaseWait": "Please wait",
+    "congratulations": "Congratulations",
+    "thankYou": "Thank You",
+    "oops": "Oops",
+    "over": "Over",
+    "back": "Back",
+    "cancel": "Cancel",
+    "add": "Add",
+    "orLower": "or",
+    "share": "Поделиться",
+    "searchHere": "Поиск",
+    "comments": "Комментарии",
+    "published": "Опубликовано",
+    "teacher": "Учитель",
+    "edit": "Изменить",
+    "friends": "Друзья",
+    "classmates": "Одноклассники",
+    "students": "Студенты",
+    "viewAll": "Просмотреть все",
+    "viewPartially": "Просмотреть частично",
+    "viewLess": "Просмотреть меньше",
+    "fieldTrips": "Путешествия",
+    "individualCalls": "Индивидуальные звонки",
+    "groupCalls": "Групповые звонки",
+    "classCalls": "Звонки с классом",
+    "finished": "Завершенные",
+    "badges": "Значки",
+    "country": "Страна",
+    "about": "О себе",
+    "interests": "Интересы",
+    "participants": "Участники",
+    "studentsLevel": "Уровень студентов",
+    "studentsAge": "Возраст студентов"
+  },
+
+
+  "buttons": {
+    "login": "Логин",
+    "submit": "Подтвердить",
+    "cancel": "Отменить",
+    "send": "Отправить",
+    "share": "Поделиться",
+    "gotIt": "Понял",
+    "copy": "Скопировать",
+    "copyLink": "Скопировать ссылку",
+    "addComment": "Комментировать",
+    "viewAllOtherComments": "смотреть все комментарии",
+    "viewAll": "Просмотреть все",
+    "latest": "Последние",
+    "popular": "Популярные",
+    "loadMore": "Загрузить еще",
+    "exploreAll": "просмотреть все",
+    "readMore": "Читать целиком",
+    "searchHere": "Поиск",
+    "replyMessage": "Ответить",
+    "goToUserProfile": "Перейти в профайл",
+    "report": "Сообщить",
+    "more": "еще",
+    "goBack": "Назад",
+    "saveChanges": "Сохранить",
+    "editMessage": "Редактировать сообщение",
+    "delete": "Удалить",
+    "enterTheRoom": "Войти в комнату",
+    "learnMore": "Изучить больше",
+    "search": "Поиск"
+  },
+
+  "forms": {
+    "placeholders": {
+      "enterTextHere": "Введите текст..."
+    },
+    "uploadImage": {
+      "dragAndDrop": "Перетащите <span>Изображение</span>",
+      "browse": " или <span>нажмите</span> чтобы выбрать файл",
+      "maxFileSize": "(Максимальный размер файла %{maxFileSizeInMb}MB)"
+    },
+    "comment": {
+      "title":"Поделитесь своим опытом",
+      "commentPlaceholder": "Введите текст.."
+    }
+  },
+
+  "error": {
+    "generic": "Something went wrong",
+    "fillAllRequired": "Пожалуйста заполните все необходимые поля!",
+    "somethingGoingWrong": "Что-то пошло не так, обратитесь в службу поддержки!",
+    "shouldBeFilled": "должно быть заполнено",
+    "shouldBeCorrectEmail": "необходимо ввести правильный адрес электронной почты",
+    "emailAlreadyTaken": "email уже занят",
+    "usernameAlreadyTaken": "имя пользователя занято",
+    "textShouldBeWrittenInEnglish": "Текст должен быть написан на английском",
+    "cantBeBlank": "Поле не может быть пустым",
+    "passwordValidationError": "Пароли должны быть одинаковыми"
+  },
+
+  "header" : {
+    "lectorium": "Лекториум",
+    "challenges": "Челенджи",
+    "community": "Сообщество",
+    "debates": "Дебаты",
+    "blog": "ID Блог",
+    "callCalendar": "Календарь звонков",
+    "teachersForum": "Форум учителей",
+    "virtualClassroom": "Виртуальный класс",
+    "myNetwork": "Моя Сеть",
+    "chat": "Месенджер",
+    "notifications": "Нотификации",
+    "home": "Home",
+    "dashboard": "Главная",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "logout": "Выйти",
+    "signIn": "Войти",
+    "signUp": "Регистрация"
+  },
+
+  "footer": {
+    "aboutUs": "О нас",
+    "blog": "iDialogue Блог",
+    "terms": "Условия и Положения",
+    "privacy": "Политика конфиденциальности",
+    "privacyAndTerms": "Политика конфиденциальности",
+    "faq": "FAQ",
+    "getTheApp": "Cкачать:",
+    "downloadApp": "Скачать iDialogue для:",
+    "follow": "Следите за iDialogue в соц сетях"
+  },
+
+
+  "landing": {
+    "header": {
+      "families": "Родители",
+      "teachers": "Учителя",
+      "educators": "Школы",
+      "companies": "Компании"
+    }
+  },
+
+  "auth": {
+    "signUp": "Регистрация",
+    "title": "Сначала сообщите нам, какой тип аккаунта вам нужен.",
+    "school": "ШКОЛА",
+    "teacher": "УЧИТЕЛЬ",
+    "student": "СТУДЕНТ",
+    "parent": "РОДИТЕЛЬ",
+
+    "signUpSchool": {
+      "title": "Создайте школьный профайл!",
+      "fields": {
+        "schoolNamePlaceholder": "Название школы",
+        "firstNamePlaceholder": "Имя",
+        "lastNamePlaceholder": "Фамилия",
+        "countryPlaceholder": "Страна",
+        "emailPlaceholder": "Ваш email",
+        "passwordPlaceholder": "Пароль",
+        "repeatPasswordPlaceholder": "Повторите пароль",
+        "codePlaceholder": "Введите школьный код",
+        "agree": "Я согласен с",
+        "terms": "условиями и политикой конфиденциальности"
+      },
+      "submit": "Создать аккаунт",
+      "emailAlreadyTaken": "Этот имейл уже зарегестрирован",
+      "passwordMismatch": "Пароль </br> не совпадает",
+      "dontHaveCode": "Нет школьного кода?",
+      "clickHere": "Получить!",
+      "requestDemo": "Запросить Демо",
+      "alreadyHaveAccount": "Уже есть аккаунт?",
+      "signIn": "Войти",
+      "or": "или"
+    },
+
+    "signUpSchoolDemo": {
+      "title": "Запросить Демо",
+      "fields": {
+        "schoolNamePlaceholder": "Название школы",
+        "principalNamePlaceholder": "ФИО Директора",
+        "countryPlaceholder": "Страна",
+        "emailPlaceholder": "Ваш email"
+      },
+      "submit": "Запросить Демо",
+      "goBack": "Назад"
+    },
+
+    "signIn": {
+      "title": "Войдите в iDialogue",
+      "fields": {
+        "emailPlaceholder": "Почта или имя пользователя",
+        "passwordPlaceholder": "Пароль",
+        "rememberMe": "Запомнить меня"
+      },
+      "dontHaveAccount": "Нет аккаунта?",
+      "forgot": "Забыли?",
+      "signIn": "Войти",
+      "signUp": "Регистрация"
+    },
+
+    "forgotPassword": {
+      "title": "Сбросить пароль",
+      "fields": {
+        "emailPlaceholder": "Введите ваш email"
+      },
+      "sendEmail": "Отправить Email",
+      "backToSignIn": "Вернуться к логину",
+      "successMessage": "Ссылка для сброса пароля успешно отправлена на вашу электронную почту!"
+    },
+
+    "resetPassword": {
+      "title": "Выставить новый пароль",
+      "fields": {
+        "passwordPlaceholder": "Пароль",
+        "confirmPasswordPlaceholder": "Подтвердить пароль",
+        "passwordValidationError": "Пароли должны быть одинаковыми"
+      },
+      "confirmPassword": "Выставить новый пароль",
+      "successMessage": "Пароль успешно выставлен",
+      "goToSignIn": "Перейти на логин"
+    },
+
+    "signUpTeacher":{
+      "title": "Создайте свой профайл",
+      "fields": {
+        "firstNamePlaceholder": "Имя",
+        "lastNamePlaceholder": "Фамилия",
+        "countryPlaceholder": "Страна",
+        "emailPlaceholder": "Ваш email",
+        "passwordPlaceholder": "Пароль",
+        "repeatPasswordPlaceholder": "Подтвердить пароль",
+        "englishLevelLabel": "Выберите уровень английского учеников",
+        "beginnerLevelLabel": "Новичок",
+        "intermediateLevelLabel": "Средний",
+        "advancedLevelLabel": "Высокий",
+        "codePlaceholder": "Введите код учителя",
+        "agree": "Я согласен с",
+        "terms": "условиями и политикой конфиденциальности"
+      },
+      "emailAlreadyTaken": "Этот имейл уже зарегестрирован",
+      "passwordMismatch": "Пароль </br> не совпадает",
+      "dontHaveCode": "Нет кода учителя?",
+      "getIt": "Получить!",
+      "submit": "Создать профиль",
+      "alreadyHaveAccount": "Уже есть аккаунт?",
+      "signIn": "Войти"
+    },
+
+    "signUpStudent": {
+      "title": "Создайте свой профайл",
+      "fields": {
+        "usernamePlaceholder": "Имя пользователя",
+        "passwordPlaceholder": "Пароль",
+        "repeatPasswordPlaceholder": "Подтвердить пароль",
+        "yearOfBirthPlaceholder": "Год рождения: 2012",
+        "codePlaceholder": "Введите код класса ",
+        "countryPlaceholder": "Страна",
+        "agree": "Я согласен с",
+        "terms": "условиями и политикой конфиденциальности"
+      },
+      "usernameAlreadyTaken": "Имя пользователя занято",
+      "passwordMismatch": "Пароль </br> не совпадает",
+      "submit": "Создать аккаунт",
+      "alreadyHaveAccount": "Уже есть аккаунт?",
+      "signIn": "Войти"
+    }
+  },
+
+  "lectorium": {
+    "title": "Записать видео урок для своих учеников",
+    "description": "Теперь вы можете легко создавать и делиться своими видео-уроками. У нас есть удобные инструменты для создания интерактивных задач для видео. Вы сможете получать уведомления о том, что ваши ученики изучили материал.",
+    "uploadButton": "Загрузить видео урок сейчас",
+    "view": {
+      "taskDescription": "Описание задачи",
+      "video": "Видео",
+      "videoDescription": "Просмотр видео",
+      "reading": "Чтение",
+      "readingDescription":  "Прочитай инструкцию",
+      "quiz": "Квиз",
+      "quizDescription": "Пройди короткий тест",
+      "quizOneAnswer": "Только один правильный ответ",
+      "quizSomeAnswers": "Несколько правильных ответов",
+      "quizAgree": "Правильное ли это утверждение с информацией, приведенной в видео и тексте? ",
+      "quizCorrect": "Правильно!",
+      "quizInCorrect": "Неправильно!",
+      "share": "Поделись своим опытом",
+      "shareDescription": "Поделись своим опытом с другими",
+      "watchPostsFromOtherStudents": "Следите за последними сообщениями других студентов",
+      "watchVideosFromOtherStudents": "Следите за последними видео других студентов",
+      "specialProjects": "Специальные проекты",
+      "specialProjectsDescription": "Наши партнеры предоставили уникальный образовательный контент для вашего увлекательного и эффективного обучения.",
+      "haveQuestions": "Есть вопросы или хотите что-то обсудить? <br/>Не стесняйся спрашивать!",
+      "ourNewVideos": "Наши новые видео",
+
+      "fields": {
+        "titlePlaceholder": "Введите заголовок",
+        "postPlaceholder": "Введите описание",
+        "submitPost": "Отправить",
+        "successPostMessage": "Ваш пост опубликован! Вы можете найти его ниже или в своем профиле!"
+      }
+    }
+  },
+
+  "challenges": {
+    "challenge": "Челендж",
+    "rewards": "Награды",
+    "submitProjectNow": "Отправить проект",
+    "challengeTimeline": "Таймлайн",
+    "daysLeftBeforeDeadline": "дня осталось до дедлайна",
+    "chatAndLearn": "Общайся и Учись",
+    "discussWithFriends": "Обсуждай идеи с друзьями",
+    "winAndVote": "Выигрывай и Голосуй",
+    "watchVideos": "Смотри видео других студентов, лайкай, комментируй, вдохновляйся!",
+    "officialStart": "Старт",
+    "officialStartDescription": "Изучай материалы и узнай, как принять участие!",
+    "submissionDeadline": "Крайник срок отправки",
+    "submissionDeadlineDescription": "Запиши и отправь видео чтобы иметь шанс выиграть приз!",
+    "winnerAnnounced": "Объявление победителей",
+    "winnerAnnouncedDescription": "Наше жюри выберет и наградит самые актуальные ролики.",
+    "peopleChoiceAward": "Приз зрительских симпатий",
+    "peopleChoiceAwardDescription": "Мы наградим ролики, которые получат больше всего лайков и комментариев.",
+    "howToWin": "Как выиграть",
+    "submitPost": "Отправить Пост",
+    "submitPostDescription": "Добавьте фото или видео о своей задаче и кратко опишите ее.",
+    "waitForResult": "Ждать результатов",
+    "waitForResultDescription": "В ожидании вы можете смотреть чужие посты, ставить лайки и комментировать их, чтобы повысить свою активность.",
+    "getYourPrize": "Получи свой приз!",
+    "getYourPrizeDescription": "В любом случае вы получите вознаграждение за участие. И дополнительные призы в особых случаях.",
+    "awardCategories": "Категории наград",
+    "peopleChoice": "Выбор людей",
+    "beAttentive": "Будь внимательным",
+    "peopleChoiceDescription": "Выполняй все условия партнеров и получайте призы!",
+    "usersChoice": "Выбор пользователей",
+    "moreLikes": "Больше лайков - больше шансов на победу",
+    "userChoiceDescription": "Поделись своим постом с друзьями и получи как можно больше комментариев и лайков!",
+    "ourPick": "Наш выбор",
+    "speakSincerely": "Говори искренне",
+    "ourPickDescription": "Произведи впечатление на нашего бота Элвиса захватывающей историей, чтобы привлечь все его внимание",
+    "previousWinners": "Прошлые победители",
+    "youCanRecordAndSubmit": "Ты можешь записать и отправить любое количество видео",
+    "moreVideosHigher": "Чем больше видео сделаешь, тем выше ваши шансы на победу!",
+    "previousChallenges": "Прошлые Челенджи",
+    "winners": "Победители",
+    "allParticipants": "участники",
+
+    "create": {
+      "uploadYour": "Загрузи",
+      "makeAndUpload": "Сделай и загрузи видео или фото хорошего качества",
+      "makeExciting": "Составь увлекательное описание вашего проекта",
+      "receiveCertificate": "Получи сертификат об участии!",
+      "winChallenge": "Выиграй челендж!!!",
+
+      "fields": {
+        "title": "Заголовок проекта",
+        "titlePlaceholder": "Введите имя проекта..",
+        "descriptionPlaceholder": "Добавьте описание",
+        "dragAndDropVideo": "Перетащите свое видео",
+        "browserFile": "или <span>нажмите</span> для выбора",
+        "fileSizeError": "Файл должен быть меньше",
+        "dragAndDropImage": "Перетащите свою <span>Картинку</span>",
+        "submitProject": "необходимо быть авторизованным."
+      },
+      "publishButton": "Опубликовать свой проект",
+      "successMessage": "Ваш челендж создан. Спасибо!"
+    }
+  },
+
+  "community": {
+    "teacherTitle": "В этом разделе студенты общаются со сверстниками со всего мира!",
+    "teacherDescription": "Это безопасная зона для совместной работы, где учащиеся могут публиковать, читать и отвечать на обсуждения по разным темам, обмениваться мыслями, задавать вопросы, инициировать обсуждения и заводить друзей.",
+    "joinGlobal": "Присоединяйтесь к глобальному обсуждению!",
+    "selectTopic": "Выбери тему для публикации и начни общение!",
+    "listTitle": "Смотрите последние сообщения сообщества iDialogue",
+    "fields": {
+      "titlePlaceholder": "Введите титул",
+      "descriptionPlaceholder": "Введите описание",
+      "selectTagPlaceholder": "Выберите #TAG"
+    },
+    "submit": "Отправить свой",
+    "successMessage": "Ваш пост опубликован! Вы можете найти его ниже или в своем профиле!"
+  },
+
+  "debates": {
+    "joinDebates": "Приосоединяйся к дебатам!",
+    "description": "В нашем сообществе вы можете дискутировать с умными людьми со всего мира и читать мнения. Открывайте самые горячие темы современности с разных сторон и отстаивайте свою точку зрения в наших дебатах.",
+    "createButton": "СОЗДАТЬ НОВУЮ ТЕМУ",
+    "debatesList": "Форум Дебатов",
+    "clickOnTheImage": "Нажми на картинку чтобы увидеть все варианты",
+    "yes": "ДА",
+    "no": "НЕТ",
+    "view": {
+      "createdBy": "создано",
+      "votes": "голос(ов)",
+      "tooltip": "Ты уже выбрал сторону. Можно выбрать только 1 раз",
+      "stateYourOpinion": "Выразить свое мнение",
+      "fields": {
+        "descriptionPlaceholder": "Введи свое мнение"
+      }
+    }
+  },
+
+  "friends": {
+    "alreadyFriend": "Пользователь уже в списке друзей",
+    "requestSent": "Запрос на дружбу отправлен",
+    "findStudentFriends": "Вы можете найти друзей, начав вводить их имя или псевдоним в поле поиска выше",
+    "tabs": {
+      "friends": "Друзья",
+      "findFriends": "Поиск Друзей"
+    }
+  },
+
+  "badges": {
+    "challenger": {
+      "title": "Челленджер",
+      "descriptionOff": "Участвуй в челленджах от idialogue.com и зарабатывай награды\n",
+      "descriptionOn": "Выполни больше испытаний, чтобы стать нашей легендой!"
+    },
+    "firestarter": {
+      "title": "Коммуникатор",
+      "descriptionOff": "Оставь 10 комментариев в любом разделе на платформе стань лучшим комментатором!",
+      "descriptionOn": "Оставь больше комментариев, чтобы получить эту награду!"
+    },
+    "blogger": {
+      "title": "Блогер",
+      "descriptionOff": "Чтобы получить значок блоггера, зайди в раздел “Сообщество” на платформе и создай пост!",
+      "descriptionOn": "Оставляй больше постов, чтобы стать лучшим блоггером!"
+    },
+    "storyteller": {
+      "title": "Рассказчик",
+      "descriptionOff": "Размести свою историю, чтобы получить награду!",
+      "descriptionOn": "Размещай больше историй, чтобы стать лучшим рассказчиком!"
+    },
+    "influencer": {
+      "title": "Инфлюенсер",
+      "descriptionOff": "Этот значок выдается учителем тем ученикам, которые активно размещают посты в разделе “Сообщество”.",
+      "descriptionOn": "Опубликуй в сообществе и получи вознаграждение от своего учителя!",
+      "tips": "Мы рекомендуем выдавать этот значок тем ученикам, которые активно размещают посты в разделе “Сообщество”."
+    },
+    "critical-thinker": {
+      "title": "Мудрец",
+      "descriptionOff": "Это значок выдается учителем тем ученикам, которые активно участвуют в дебатах.",
+      "descriptionOn": "Участвуй в дебатах и получай вознаграждение от своего учителя!",
+      "tips": "Мы рекомендуем выдавать этот значок тем ученикам, которые активно участвуют в дебатах."
+    },
+    "green": {
+      "title": "Эко активист",
+      "descriptionOff": "Это значок выдается учителем тем ученикам, которые принимают участие в эко-челенджах или активно обсуждают вопросы экологии.",
+      "descriptionOn": "Будь активным в ECO Challenge или в дискуссиях об экологии и получи вознаграждение от своего учителя.!",
+      "tips": "Мы рекомендуем выдавать этот значок тем ученикам, которые принимают участие в эко-челенджах или активно обсуждают вопросы экологии."
+    },
+    "debater": {
+      "title": "Спорщик",
+      "descriptionOff": "Участвуй в дебатах и получи статус дипломата! Заходи на платформу, чтобы высказать свое мнение и получить награду.",
+      "descriptionOn": "Участвуй в дебатах и получи статус дипломата! Заходи на платформу, чтобы высказать свое мнение и получить награду."
+    },
+    "superfriend": {
+      "title": "Супер-друг",
+      "descriptionOff": "Пора зайти на платформу и поставить лайк под постами других учеников.",
+      "descriptionOn": "Поставь много лайков и стань супер-другом!",
+      "tips": "Поставь много лайков и стань супер-другом!"
+    },
+    "collaborator": {
+      "title": "Коллаборатор",
+      "descriptionOff": "Этот значок выдается учителем тем ученикам, которые активно знакомятся и заводят новых друзей на платформе.",
+      "descriptionOn": "Make new friends and be rewarded with your teacher!",
+      "tips": "Мы рекомендуем выдавать этот значок тем ученикам, которые добавили минимум 5 новых друзей."
+    },
+    "winter_challenge": {
+      "title": "Волшебная зима",
+      "descriptionOff": "",
+      "descriptionOn": "Участие в Волшебной зиме"
+    },
+    "hometown_challenge": {
+      "title": "Мой город",
+      "descriptionOff": "",
+      "descriptionOn": "Участие в Мой Город."
+    },
+    "dream_vacation_challenge": {
+      "title": "Каникулы мечты",
+      "descriptionOff": "",
+      "descriptionOn": "Участие в Каникулы мечты"
+    },
+    "dare_to_be_happy2": {
+      "title": "Решаю быть счастливым 2.0",
+      "descriptionOff": "",
+      "descriptionOn": "Участие в Решаю быть счстливым 2.0"
+    },
+    "winter_challenge2": {
+      "title": "Волшебная зима 2.0",
+      "descriptionOff": "",
+      "descriptionOn": "Участие в Волшебная зима 2.0"
+    },
+    "friendship": {
+      "title": "Вызов дружбе",
+      "descriptionOff": "",
+      "descriptionOn": "Участие в Вызов дружбе"
+    }
+  },
+
+  "notifications": {
+    "sidebar": {
+      "allNotifications": "Все Нотификации",
+      "videoCalls": "Видео Звонки",
+      "classroomCommunity": "Сообщество классов",
+      "students": "Студенты",
+      "lectorium": "Лекториум",
+      "challenges": "Челенджи",
+      "community": "Сообщество",
+      "debates": "Дебаты",
+      "idBlog": "iD Блог",
+      "generalNotifications": "Общие",
+      "friends": "Друзья",
+      "profile": "Профиль"
+    },
+    "buttons": {
+      "goToTeacherForum": "Перейти в Форум учителей",
+      "goToChat": "Перейти в Чат",
+      "goToFriends": "Перейти к Друзьям",
+      "goToProfile": "Перейти в Профайл",
+      "goToChallenge": "Перейти в Челенджи",
+      "goToCallCard": "Перейти в карточку Звонка",
+      "openDebate": "Открыть Дебат",
+      "viewAllBadges": "Просмотреть все Значки",
+      "checkItNow": "Проверить сейчас!",
+      "goToLesson": "Перейти в Урок",
+      "goToPost": "Перейти в Запись"
+    }
+  },
+
+  "blog": {
+    "liked": "Понравившиеся",
+    "likeThePost": "Поставить лайк"
+  },
+
+  "profile": {
+
+    "sidebar": {
+      "writeMessage": "Написать сообщение",
+      "sendFriendRequest": "Отправить запрос в друзья",
+      "deleteFromFriends": "Удалить из друзей",
+      "acceptFriendRequest": "Принять запрос в друзья",
+      "rejectFriendRequest": "Отклонить запрос в друзья",
+      "cancelFriendRequest": "Отменить запрос в друзья",
+      "country": "Страна",
+      "rewardWithABadge": "Наградить баджем",
+      "yourStudent": "Ваш студент",
+      "createIndividualCall": "Создать индивидуальный звонок",
+      "resetPassword": "Изменить пароль",
+      "removeStudentFromList": "Удалить из списка студентов",
+      "about": "О себе",
+      "interests": "Интересы",
+      "viewAll": "все",
+      "viewPartially": "частично",
+      "looksToOtherTeachers": "Посмотрите, как ваш профиль выглядит для других учителей",
+      "yourChild": "Ваш ребенок",
+      "changePassword": "Изменить пароль ребенка",
+      "deleteChildAccount": "Удалить аккаунт ребенка",
+      "place": "Страна"
+    },
+    "content": {
+      "petBlock": {
+        "hi": "Привет, Я",
+        "age": "Мне %{age} дней",
+        "nextGrowth": "дней осталось до следующего роста",
+        "older": "Я становлюсь старше на 1 день, после полного заполнения шкалы в iDialogue App",
+        "noPet": "У тебя все еще нет виртуального питомца?!",
+        "install": "Загрузи приложение iDialogue на свой смартфон и получи питомца!",
+        "yourPetWillGrow": "Он будет расти вместе с твоим уровнем английского языка."
+      },
+      "weeklyVisits": {
+        "title": "Посещение сайта",
+        "lastDays": "Последние 7 дней",
+        "today": "Сегодня",
+        "visited": "был",
+        "noActivity": "Не был"
+      },
+      "progress": {
+        "progressInApp": "Прогресс",
+        "lastDays": "Последние 7 дней",
+        "today": "Сегодня",
+        "noActivity": "Нет активности",
+        "wellDone": "Отличная работа",
+        "good": "Хорошо"
+      },
+      "videoCalls": {
+        "teacherTitle": "Видеозвонки",
+        "title": "Уроки и активности",
+        "noScheduledCalls": "Забронированных еще нет",
+        "viewAll": "Просмотреть все",
+        "noCalls": "Нет звонков",
+        "youWillSee": "Здесь вы увидите запланированные звонки."
+      },
+      "postsAndChallenges": {
+        "title": "Посты и челленджи",
+        "postsCouldBeHere": "Все твои посты появятся здесь!",
+        "takeALook": "Зайди в раздел “Сообщество” и расскажи ребятам что-нибудь интересное!",
+        "youCanDo": "За каждый интересный пост можно получить бейджик!"
+      },
+      "debates": {
+        "title": "Дебаты",
+        "noDebatesFound": "Не найдено!"
+      },
+      "videoLessons": {
+        "title": "Видео Уроки",
+        "noLectoriumFound": "лекториумов не найдено",
+        "notFound": "Уроков не найдено!",
+        "all": "Все",
+        "onStudy": "В процессе",
+        "finished": "Законченные"
+      },
+      "countryInfo": {
+        "about": "О",
+        "capital": "Столица",
+        "region": "Регион",
+        "population": "Население",
+        "moreInformation": "Больше информации",
+        "openWikipedia": "Открыть Википедию"
+      }
+    }
+  },
+
+  "digitalPassport": {
+    "digitalPassport": "Виртуальный паспорт",
+    "visitedCountries": "Посещенные страны",
+    "numberOfTravels": "Число путешествий",
+    "downloadPdf": "Скачать в формате pdf",
+    "downloadImage": "Скачать как картинку",
+    "toDownloadClick": "Ссылки для скачивания"
+  },
+
+  "settings": {
+    "title": "Изменить профиль",
+    "profile": "Профиль",
+    "about": "О себе",
+    "password": "Пароль",
+    "successMessage": "Профиль успешно обнавлен!",
+    "fields": {
+      "firstNameLabel": "Имя",
+      "firstNamePlaceholder": "Имя",
+      "lastNameLabel": "Фамилия",
+      "lastNamePlaceholder": "Фамилия",
+      "countryLabel": "Страна",
+      "countryPlaceholder": "Выбери Страну",
+      "usernameLabel": "Логин",
+      "usernamePlaceholder": "Логин",
+      "genderLabel": "Пол",
+      "genderPlaceholder": "Выберите пол",
+      "yearOfBirthLabel": "Год рождения",
+      "groupLevelLabel": "Уровень английского группы",
+      "groupLevelPlaceholder": "Выберите уровень английского",
+      "bioLabel": "Расскажите о себе",
+      "chooseInterestsLabel": "Выберите интересы",
+      "passwordLabel": "Текущий пароль",
+      "passwordPlaceholder": "ввести",
+      "newPasswordLabel": "Новый пароль",
+      "repeatPasswordLabel": "Повторите пароль",
+      "passwordValidationError": "Пароли должны быть одинаковыми"
+    }
+  },
+
+  "friendsPage": {
+    "classmates": "ОДНОКЛАССНИКИ",
+    "friends": "ДРУЗЬЯ",
+    "teacher": "УЧИТЕЛЬ",
+    "receivedRequests": "ПОЛУЧЕННЫЕ ЗАПРОСЫ",
+    "sentRequests": "ОТПРАВЛЕННЫЕ ЗАПРОСЫ",
+    "buttons": {
+      "addToFriends": "Добавить в друзья",
+      "cancelRequest": "Отменить запрос",
+      "goToChat": "Перейти в чат",
+      "removeFromFriends": "Удалить из друзей",
+      "goToProfile": "Перейти в профайл"
+    }
+  },
+
+  "calls": {
+    "finishedCall": "Завершенный звонок",
+    "yourCall": "Ваш звонок",
+    "scheduledCall": "Запланированный звонок",
+    "individualCall": "Индивидуальный звонок",
+    "comingSoon": "СКОРО",
+    "accessToCallWillOpen": "Доступ откроется за %{ALLOWED_MINUTES_BEFORE_CALL} минуту до начала разговора",
+    "reloadPage": "Если вы хотите вернуться к разговору, <br /> перезагрузите страницу, нажав кнопку ниже!",
+    "reloadPageButton": "Пегезагрузить страницу",
+    "thanksForParticipating": "Спасибо за участие!",
+    "days": "ДНЕЙ",
+    "hours": "ЧАСОВ",
+    "minutes": "МИНУТ",
+    "seconds": "СЕКУНД",
+    "jitsiUseMessage": " Чтобы показать экран учащимся, используйте браузеры Chrome или Firefox, поскольку они лучше всего поддерживают видеозвонки. Мы хотим сообщить вам, что в Safari нет возможности поддерживать совместное использование экрана.",
+    "maxTeachers": "Максимальное кол-во учителей",
+    "downloadAttachment": "Скачать вложения",
+    "shortcuts": {
+      "title": "Горячие клавиши для звонка",
+      "mute": "Включите или отключите микрофон",
+      "startCamera": "Start or stop your camera",
+      "manageQuality": "Запустите или остановите камеру",
+      "fullScreen": "Вход и Выход из полноэкранного режима",
+      "switchBetween": "Переключение между камерой и демонстрацией экрана",
+      "showShortcuts": "Показать или скрыть сочетания клавиш"
+    }
+  },
+
+  "parent": {
+    "hello": "Здравствуйте",
+    "subscription": "Ваша подписка действительна до",
+    "renew": "Обновить Подписку",
+    "unlockPlace": "Разблокировать дополнительное место",
+    "addChild": "+ Добавить ребенка",
+    "videoCallsWithTeacher": "Видео-уроки с преподавателем"
+  },
+
+  "modals": {
+    "signIn": {
+      "please": "Пожалуйста",
+      "signIn": "войдите",
+      "toContinue": "чтобы продолжить"
+    },
+    "notAllowed": {
+      "text": "Это действие недоступно <br /> для вашего аккаунта"
+    },
+    "addCommentModal": {
+      "yourName": "Ваше имя",
+      "yourComment": "Ваш комментарий",
+      "copySuccess": "Ссылка скопирована"
+    },
+    "createDebate": {
+      "title": "Присоединиться к дебатам!",
+      "description": "Выберите категорию и напишите вопрос или утверждение, чтобы начать обсуждение!",
+      "fields": {
+        "questionPlaceholder": "Введите свой вопрос или утверждение ...",
+        "selectPlaceholder": "Выберите...",
+        "descriptionPlaceholder": "Введите описание..."
+      },
+      "submit": "ОТПРАВИТЬ"
+    },
+    "call": {
+      "shareInviteLink": "Скопировать ссылку",
+      "joinedTeachers": "Присоединившиеся учителя",
+      "studentsCanJoinTheCall": "Студенты могут присоединиться к звонку",
+      "joinedClassrooms": "Присоединившиеся классы",
+      "callDescription": "Описание звонка",
+      "videoCallsAvailableWith": "Видео звонки доступны только с",
+      "downloadAttachment": "Скачать вложения",
+      "youCanLeave": " Вы можете покинуть звонок только за 24 часа до начала. <br /> Если вы не можете принять участие в разговоре, обратитесь к своему учителю!",
+      "cantParticipate": "Если вы не можете участвовать в звонке, обратитесь к организатору звонка!",
+      "leaveCall": "Покинуть звонок",
+      "declineCall": "Отклонить звонок",
+      "declineCallConfirmation": "Вы уверены, что хотите отклонить звонок?",
+      "reserveSpot": "Зарезервировать место",
+      "acceptCall": "Принять звонок",
+      "maxTeachers": "Максимальное кол-во учителей",
+      "callChat": "Чат Звонка"
+    },
+    "teacherReassignment": {
+      "title": "Переназначение учителя",
+      "fields": {
+        "fieldLabel": "Введите код учителя",
+        "placeholder": "Напишите здесь"
+      }
+    },
+    "childResetPassword": {
+      "title": "Смена пароля",
+      "fields": {
+        "passwordLabel": "Новый пароль",
+        "passwordConfirmLabel": "Повторите пароль",
+        "placeholder": "Введите здесь"
+      }
+    },
+    "addChild": {
+      "title": "Заполните всю информацию<br/>о вашем ребенке!",
+      "fields": {
+        "firstNameLabel": "Имя",
+        "usernameLabel": "Имя пользователя",
+        "temporaryPasswordLabel": "Пароль",
+        "yearOfBirthLabel": "Год рождения",
+        "placeholder": "Введите здесь",
+        "yearError": "Формат года рождения неверный, пример: 2002"
+      }
+    },
+    "deleteChild": {
+      "title": "будет удален с iDialogue. <br /> Вы уверены, что хотите продолжить?"
+    },
+    "subscriptionExpired": {
+      "title": "Ваша подписка на iDialogue закончилась!",
+      "text": "Чтобы продолжить занятия на платформе, пожалуйста продлите подписку.\n",
+      "loginText": "Чтобы продолжить занятия на платформе, пожалуйста продлите подписку.\n",
+      "cancel": "Отменить",
+      "submit": "Подписаться"
+    }
+  }
+}

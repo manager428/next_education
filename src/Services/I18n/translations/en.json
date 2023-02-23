@@ -1,0 +1,822 @@
+{
+  "language": "english",
+
+  "locale": {
+    "en": "English",
+    "ru": "Russian"
+  },
+
+  "general": {
+    "slogan": "",
+    "copyright": "© %{appName}, all right reserved",
+    "pleaseWait": "Please wait",
+    "congratulations": "Congratulations",
+    "thankYou": "Thank You",
+    "oops": "Oops",
+    "over": "Over",
+    "back": "Back",
+    "cancel": "Cancel",
+    "add": "Add",
+    "orLower": "or",
+    "share": "Share",
+    "searchHere": "Search here",
+    "comments": "Comments",
+    "published": "Published",
+    "teacher": "Teacher",
+    "edit": "Edit",
+    "friends": "Friends",
+    "classmates": "Classmates",
+    "viewAll": "View all",
+    "students": "Students",
+    "fieldTrips": "Field Trips",
+    "individualCalls": "Individual Calls",
+    "groupCalls": "Group Calls",
+    "classCalls": "Class Calls",
+    "finished": "Finished",
+    "badges": "Badges",
+    "country": "Country",
+    "about": "About",
+    "interests": "Interests",
+    "participants": "Participants",
+    "studentsLevel": "Students level",
+    "studentsAge": "Students Age"
+  },
+
+  "buttons": {
+    "login": "Login",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "send": "Send",
+    "share": "Share",
+    "gotIt": "Got It",
+    "copy": "Copy",
+    "copyLink": "Copy Link",
+    "addComment": "Add Comment",
+    "viewAllOtherComments": "view all other comments",
+    "viewAll": "View All",
+    "viewPartially": "view partially",
+    "latest": "Latest",
+    "popular": "Popular",
+    "loadMore": "Load More",
+    "exploreAll": "explore all",
+    "readMore": "Read more",
+    "replyMessage": "Reply message",
+    "goToUserProfile": "Go to user profile",
+    "report": "Report",
+    "more": "more",
+    "yes": "Yes",
+    "no": "No",
+    "goBack": "Go Back",
+    "saveChanges": "Save Changes",
+    "editMessage": "Edit Message",
+    "delete": "Delete",
+    "enterTheRoom": "Enter the room",
+    "learnMore": "Learn More",
+    "search": "Search"
+  },
+
+  "forms": {
+    "placeholders": {
+      "enterTextHere": "Enter text here..."
+    },
+
+    "uploadImage": {
+      "dragAndDrop": "Drag and drop your <span>Preview Image</span>",
+      "browse": " or <span>browse</span> to choose a file",
+      "maxFileSize": "(Max file size %{maxFileSizeInMb}MB)"
+    },
+    "comment": {
+      "title":"Share your experience",
+      "commentPlaceholder": "Write here..."
+    }
+
+  },
+
+  "error": {
+    "generic": "Something went wrong",
+    "fillAllRequired": "Please fill the required fields marked in red.",
+    "somethingGoingWrong": "Something going wrong, please contact support!",
+    "shouldBeFilled": "should be filled",
+    "shouldBeCorrectEmail": "should be entered correct email",
+    "emailAlreadyTaken": "email already taken",
+    "usernameAlreadyTaken": "username already taken",
+    "textShouldBeWrittenInEnglish": "The text should be written in English",
+    "cantBeBlank": "Field can't be blank"
+  },
+
+  "header" : {
+    "lectorium": "Lectorium",
+    "challenges": "Challenges",
+    "community": "Community",
+    "debates": "Debates",
+    "blog": "ID Blog",
+    "callCalendar": "Call Calendar",
+    "teachersForum": "Teachers Forum",
+    "virtualClassroom": "Virtual Classroom",
+    "myNetwork": "My Network",
+    "chat": "Messenger",
+    "notifications": "Notifications",
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "profile": "Social Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "signIn": "Login",
+    "signUp": "Sign Up"
+  },
+
+  "footer": {
+    "aboutUs": "About Us",
+    "blog": "iDialogue Blog",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "privacyAndTerms": "Privacy & Terms",
+    "faq": "FAQ",
+    "getTheApp": "Get the app:",
+    "downloadApp": "Download iDialogue App for",
+    "follow": "Follow iDialogue in Social Networks"
+  },
+
+  "landing": {
+    "header": {
+      "families": "Families",
+      "teachers": "Teachers",
+      "educators": "Educators",
+      "companies": "Companies"
+    }
+  },
+
+  "auth": {
+    "signUp": "Sign Up",
+    "title": "First, tell us the account type you’d like",
+    "school": "SCHOOL",
+    "teacher": "TEACHER",
+    "student": "STUDENT",
+    "parent": "PARENT",
+
+    "signUpSchool": {
+      "title": "Create School Profile!",
+      "fields": {
+        "schoolNamePlaceholder": "School Name",
+        "firstNamePlaceholder": "First Name",
+        "lastNamePlaceholder": "Last Name",
+        "countryPlaceholder": "Select your country",
+        "emailPlaceholder": "Your email",
+        "passwordPlaceholder": "Password",
+        "repeatPasswordPlaceholder": "Repeat Password",
+        "codePlaceholder": "Enter school code",
+        "agree": "I agree to the",
+        "terms": "terms and conditions & privacy policy"
+      },
+      "submit": "Create Account",
+      "emailAlreadyTaken": "This Email is already taken",
+      "passwordMismatch": "Password <br/> mismach",
+      "dontHaveCode": "Don`t have a School Code?",
+      "clickHere": "Click here to get it!",
+      "requestDemo": "Request a Demo",
+      "alreadyHaveAccount": "Already have an account?",
+      "signIn": "Sign In",
+      "or": "or"
+    },
+
+    "signUpSchoolDemo": {
+      "title": "Request a Demo",
+      "fields": {
+        "schoolNamePlaceholder": "School Name",
+        "principalNamePlaceholder": "School Principal Name",
+        "countryPlaceholder": "Select your country",
+        "emailPlaceholder": "Your email"
+      },
+      "submit": "Request a Demo",
+      "goBack": "Go Back"
+    },
+
+    "signIn": {
+      "title": "Sign In to iDialogue",
+      "fields": {
+        "emailPlaceholder": "Email or Username",
+        "passwordPlaceholder": "Password",
+        "rememberMe": "Remember me"
+      },
+      "dontHaveAccount": "Don’t have an account?",
+      "forgot": "Forgot?",
+      "signIn": "Login",
+      "signUp": "Sign Up"
+    },
+    "forgotPassword": {
+      "title": "Reset Password",
+      "fields": {
+        "emailPlaceholder": "Enter your email"
+      },
+      "sendEmail": "Send Email",
+      "backToSignIn": "Back to Sign In",
+      "successMessage": "Reset password link successfully sent to your email!"
+    },
+    "resetPassword": {
+      "title": "Set new password",
+      "fields": {
+        "passwordPlaceholder": "Password",
+        "confirmPasswordPlaceholder": "Confirm Password",
+        "passwordValidationError": "Password fields should match"
+      },
+      "confirmPassword": "Confirm new password",
+      "successMessage": "Password successfully set",
+      "goToSignIn": "Go to Sign In"
+    },
+
+    "signUpTeacher":{
+      "title": "Create Parent profile!",
+      "fields": {
+        "firstNamePlaceholder": "First Name",
+        "lastNamePlaceholder": "Last Name",
+        "countryPlaceholder": "Select your country",
+        "emailPlaceholder": "Your email",
+        "passwordPlaceholder": "Password",
+        "repeatPasswordPlaceholder": "Repeat Password",
+        "englishLevelLabel": "Choose your students' English level",
+        "beginnerLevelLabel": "Beginner",
+        "intermediateLevelLabel": "Intermediate",
+        "advancedLevelLabel": "Advanced",
+        "codePlaceholder": "Enter teacher code",
+        "agree": "I agree to the",
+        "terms": "terms and conditions & privacy policy"
+      },
+      "emailAlreadyTaken": "This Email is already taken",
+      "passwordMismatch": "Password <br/> mismach",
+      "dontHaveCode": "Don`t have a Parent Code?",
+      "getIt": "Click here to get it!",
+      "submit": "Create Profile",
+      "alreadyHaveAccount": "Already have an account?",
+      "signIn": "Sign In"
+    },
+
+    "signUpStudent": {
+      "title": "Create your profile!",
+      "fields": {
+        "usernamePlaceholder": "Username",
+        "passwordPlaceholder": "Password",
+        "repeatPasswordPlaceholder": "Repeat Password",
+        "yearOfBirthPlaceholder": "Year of birth: YYYY",
+        "codePlaceholder": "Enter the class code here",
+        "countryPlaceholder": "Select your country",
+        "agree": "I agree to the",
+        "terms": "terms and conditions & privacy policy"
+      },
+      "usernameAlreadyTaken": "This Username is already taken",
+      "passwordMismatch": "Password <br/> mismach",
+      "submit": "Create Account",
+      "alreadyHaveAccount": "Already have an account?",
+      "signIn": "Sign In"
+    },
+
+    "signupParent": {
+      "title": "Create your profile!",
+      "fields": {
+        "firstNamePlaceholder": "First Name",
+        "lastNamePlaceholder": "Last Name",
+        "countryPlaceholder": "Select your country",
+        "emailPlaceholder": "Your email",
+        "passwordPlaceholder": "Password",
+        "repeatPasswordPlaceholder": "Repeat Password",
+        "codePlaceholder": "Enter parent code",
+        "agree": "I agree to the",
+        "terms": "terms and conditions & privacy policy"
+      },
+      "emailAlreadyTaken": "This Email is already taken",
+      "passwordMismatch": "Password <br/> mismach",
+      "dontHaveCode": "Don`t have a Parent Code?",
+      "getIt": "Click here to get it!",
+      "submit": "Create Account",
+      "alreadyHaveAccount": "Already have an account?",
+      "signIn": "Sign In"
+    }
+  },
+
+  "lectorium": {
+    "title": "Record a Video Lesson for Students",
+    "description": "Now you can easily create and share your video lessons. We have convenient tools for creating interactive tasks for the video. You will be able to receive notifications that your students have studied the material.",
+    "uploadButton": "Upload Video Lesson Now",
+
+    "view": {
+      "taskDescription": "Tasks description for the video",
+      "video": "Video",
+      "videoDescription": "Watch the video",
+      "reading": "Reading",
+      "readingDescription":  "Read the instructions",
+      "quiz": "Quiz",
+      "quizOneAnswer": "There is only one correct answer",
+      "quizSomeAnswers": "here are some correct answers",
+      "quizDescription": "Take a short test to improve your knowledge",
+      "quizAgree": "Do this statement agree with the information given in the video and text?",
+      "quizCorrect": "Correct!",
+      "quizInCorrect": "Incorrect!",
+      "share": "Share your experience",
+      "shareDescription": "Share your experience with others",
+      "watchPostsFromOtherStudents": "Watch the Latest Posts from Other Students",
+      "watchVideosFromOtherStudents": "Watch the Latest Videos from Other Students",
+      "specialProjects": "Special Projects",
+      "specialProjectsDescription": "Our partners have provided unique educational content for your fun and effective learning",
+      "haveQuestions": "Have questions or want to discuss something? <br/>Feel free to ask!",
+      "ourNewVideos": "Our New Videos",
+
+      "fields": {
+        "titlePlaceholder": "Write title here...",
+        "postPlaceholder": "Type your post here...",
+        "submitPost": "Submit Your Post",
+        "successPostMessage": " Your post has been published! You can find it below or in your profile!"
+      }
+    }
+  },
+
+  "challenges": {
+    "challenge": "Challenge",
+    "rewards": "Rewards",
+    "submitProjectNow": "Submit your project now",
+    "challengeTimeline": "Challenge Timeline",
+    "daysLeftBeforeDeadline": "days left before the deadline",
+    "chatAndLearn": "Chat and Learn",
+    "discussWithFriends": "Discuss your ideas with friends",
+    "winAndVote": "Win & Vote",
+    "watchVideos": "Watch the videos of other students, like, comment and get inspired!",
+    "officialStart": "Official Start",
+    "officialStartDescription": "Explore the materials and learn how you can participate!",
+    "submissionDeadline": "Submission Deadline",
+    "submissionDeadlineDescription": "Record and submit your video for a chance to win prizes!",
+    "winnerAnnounced": "Winners Announced",
+    "winnerAnnouncedDescription": "Our jury will select and award the most relevant videos.",
+    "peopleChoiceAward": "People's Choice Award",
+    "peopleChoiceAwardDescription": "We will award the videos that will get the most likes and comments.",
+    "howToWin": "How to Win",
+    "submitPost": "Submit a Post",
+    "submitPostDescription": "Add photo or video about your challenge activity and shortly describe it.",
+    "waitForResult": "Wait for results",
+    "waitForResultDescription": "While waiting, you can watch others’ posts, like and comment them to raise up your activity.",
+    "getYourPrize": "Get your prize!",
+    "getYourPrizeDescription": "You will get a reward for participation in any case. And additional prizes in special cases.",
+    "awardCategories": "Awards Categories",
+    "peopleChoice": "People’s Choice",
+    "beAttentive": "Be Attentive",
+    "peopleChoiceDescription": "Fulfill all conditions of Our Partner’s and get the prizes!",
+    "usersChoice": "User’s Choice",
+    "moreLikes": "More Likes - More Chances to Win",
+    "userChoiceDescription": "Share your post with friends and get as many comments and likes as you can!",
+    "ourPick": "Our Pick",
+    "speakSincerely": "Speak Sincerely",
+    "ourPickDescription": "Impress our bot Elvis with exciting story to get all his attention",
+    "previousWinners": "Previous Winners",
+    "youCanRecordAndSubmit": "You can record and submit as many videos as you want!",
+    "moreVideosHigher": "The more videos you make the higher are your chances to win the challenge!",
+    "previousChallenges": "Previous Challenges",
+    "winners": "Winners",
+    "allParticipants": "All participants",
+
+    "create": {
+      "uploadYour": "Upload Your",
+      "makeAndUpload": "Make and Upload a good quality Video or Photo",
+      "makeExciting": "Make an exciting description of your project",
+      "receiveCertificate": "Receive a certificate of participation!",
+      "winChallenge": "Win the Challenge!!!",
+
+      "fields": {
+        "title": "Project Title",
+        "titlePlaceholder": "Type your project name...",
+        "descriptionPlaceholder": "Add some description",
+        "dragAndDropVideo": "Drag and drop your <span>Video</span>",
+        "browserFile": "or <span>browse</span> to choose a file",
+        "fileSizeError": "File size should be less",
+        "dragAndDropImage": "Drag and drop your <span>Preview Image</span>",
+        "submitProject": "first to submit your project!!!"
+      },
+      "publishButton": "Publish your project",
+      "successMessage": "Your challenge created. Thank you!"
+    }
+  },
+
+  "community": {
+    "teacherTitle": "In this section, students connect with peers from around the world!",
+    "teacherDescription": "This is a safe collaboration area for students to post, read and reply to threads on different topics, share thoughts, ask questions, initiate discussions, and make friends.",
+    "joinGlobal": "Join a global discussion!",
+    "selectTopic": "Select a topic to make a post and start the conversation!",
+    "listTitle": "See the Latest Posts from iDialogue Community",
+    "fields": {
+      "titlePlaceholder": "Type your title here...",
+      "descriptionPlaceholder": "Type your post here...",
+      "selectTagPlaceholder": "Select #TAG"
+    },
+    "submit": "Submit Your Post",
+    "successMessage": "Your post has been published! You can find it below or in your profile!"
+  },
+
+  "debates": {
+    "joinDebates": "Join Debates!",
+    "description": "In our community you can debate with intelligent minds from around the world and read the opinions. Discover the hottest topics of our time from different sides and defend your point of view in our debates.",
+    "createButton": "CREATE NEW TOPIC",
+    "debatesList": "Debates Forum",
+    "clickOnTheImage": "Click on the image to see all opinions",
+    "yes": "YES",
+    "no": "NO",
+    "view": {
+      "createdBy": "created by",
+      "votes": "votes",
+      "tooltip": "You&apos;ve already chosen a side! You can choose the side only one time!",
+      "stateYourOpinion": "State Your Opinion",
+      "fields": {
+        "descriptionPlaceholder": "Write your statement here..."
+      }
+    }
+  },
+
+  "friends": {
+    "alreadyFriend": "This user in on your friends list",
+    "requestSent": "You friend request has been sent",
+    "findStudentFriends": "You can find friends by starting typing their name or nickname in the search box above",
+    "tabs": {
+      "friends": "Friends",
+      "findFriends": "Find Friends"
+    }
+  },
+
+  "badges": {
+    "challenger": {
+      "title": "Challenger",
+      "descriptionOff": "Participate in a challenge at idialogue.com to earn your reward",
+      "descriptionOn": "Complete more challenges to become our legend!"
+    },
+    "firestarter": {
+      "title": "Fire Starter",
+      "descriptionOff": "Leave 10 comments in any section at idialogue.com and become the best commentator!",
+      "descriptionOn": "Make more comments to earn this reward!"
+    },
+    "blogger": {
+      "title": "Blogger",
+      "descriptionOff": "Visit the community section at idialogue.com and create a post to become a blogger!",
+      "descriptionOn": "Create more posts to become the best blogger!"
+    },
+    "storyteller": {
+      "title": "Storyteller",
+      "descriptionOff": "Post stories to get your reward!",
+      "descriptionOn": "Post more stories to become the best storyteller!"
+    },
+    "influencer": {
+      "title": "Influencer",
+      "descriptionOff": "This badge is given by the teacher to students who are actively posting in community",
+      "descriptionOn": "Post in community and be rewarded with your teacher!",
+      "tips": "We recommend giving this badge to students who have been actively posting in community!"
+    },
+    "critical-thinker": {
+      "title": "Critical Thinker",
+      "descriptionOff": "This badge is given by the teacher to students who are actively participated in debates",
+      "descriptionOn": "Participate in debates and be rewarded with your teacher!",
+      "tips": "We recommend giving this badge to students who participated in debates"
+    },
+    "green": {
+      "title": "Green Award",
+      "descriptionOff": "This badge is given by the teacher to students who are active in ECO challenge or in discussions about ecology",
+      "descriptionOn": "Be active in ECO challenge or in discussions about ecology and be rewarded with your teacher!",
+      "tips": "We recommend giving this badge to students who have been active in ECO challenge or in discussions about ecology"
+    },
+    "debater": {
+      "title": "Debater",
+      "descriptionOff": "Participate in all debates and become a diplomat! Visit the web version to debate and get a reward!",
+      "descriptionOn": "One more debate to the next reward."
+    },
+    "superfriend": {
+      "title": "Super Friend",
+      "descriptionOff": "Time to go to idialogue.com and «like» other student’s posts.",
+      "descriptionOn": "Give more likes to become a Super Friend!",
+      "tips": "Give more likes to become a Super Friend!"
+    },
+    "collaborator": {
+      "title": "Collaborator",
+      "descriptionOff": "This badge is given by the teacher to students who are actively meeting new friends",
+      "descriptionOn": "Make new friends and be rewarded with your teacher!",
+      "tips": "We recommend giving this badge to students who added more than 5 new friends"
+    },
+    "winter_challenge": {
+      "title": "Magic Winter",
+      "descriptionOff": "",
+      "descriptionOn": "Participate in MagicWinter challenge!"
+    },
+    "hometown_challenge": {
+      "title": "My City",
+      "descriptionOff": "",
+      "descriptionOn": "Participate in Hometown challenge!"
+    },
+    "dream_vacation_challenge": {
+      "title": "Dream Vacation",
+      "descriptionOff": "",
+      "descriptionOn": "Awarded for participation in the #DreamVacation challenge 2021"
+    },
+    "dare_to_be_happy2": {
+      "title": "Dare to be happy 2.0",
+      "descriptionOff": "",
+      "descriptionOn": "Awarded for participation in the #DaretobeHappy2.0 challenge 2021"
+    },
+    "winter_challenge2": {
+      "title": "Winter Challenge 2.0",
+      "descriptionOff": "",
+      "descriptionOn": "Awarded for participation in the #DaretobeHappy2.0 challenge 2021"
+    },
+    "friendship": {
+      "title": "Friendship Challenge",
+      "descriptionOff": "",
+      "descriptionOn": "Awarded for participation in the #Friendship challenge 2022"
+    }
+  },
+
+  "notifications": {
+    "sidebar": {
+      "allNotifications": "All Notifications",
+      "videoCalls": "Video Calls",
+      "classroomCommunity": "Classrooms Community",
+      "students": "Students",
+      "lectorium": "Lectorium",
+      "challenges": "Challenges",
+      "community": "Community",
+      "debates": "Debates",
+      "idBlog": "ID Blog",
+      "generalNotifications": "General Notifications",
+      "friends": "Friends",
+      "profile": "Profile"
+    },
+    "buttons": {
+      "goToTeacherForum": "Go to Teacher Forum",
+      "goToChat": "Go to Chat",
+      "goToFriends": "Go to Friends",
+      "goToProfile": "Go to Profile",
+      "goToChallenge": "Go to Challenge",
+      "goToCallCard": "Go to Call Card",
+      "openDebate": "Open Debate",
+      "viewAllBadges": "View all Badges",
+      "checkItNow": "Check it now!",
+      "goToLesson": "Go to Lesson",
+      "goToPost": "Go to Post"
+    }
+  },
+
+  "blog": {
+    "liked": "Liked",
+    "likeThePost": "Like the post"
+  },
+
+  "profile": {
+    "sidebar": {
+      "writeMessage": "Write a message",
+      "sendFriendRequest": "Send a Friend Request",
+      "deleteFromFriends": "Delete From Friends",
+      "acceptFriendRequest": "Accept a Friend Request",
+      "rejectFriendRequest": "Reject a Friend Request",
+      "cancelFriendRequest": "Cancel a Friend Request",
+      "country": "Place",
+      "rewardWithABadge": "Reward with a Badge",
+      "yourStudent": "Your Student",
+      "createIndividualCall": "Create Individual Call",
+      "resetPassword": "Reset Password",
+      "removeStudentFromList": "Remove from student list",
+      "about": "About",
+      "interests": "Interests",
+      "viewAll": "view all",
+      "viewPartially": "view partially",
+      "looksToOtherTeachers": "View how your profile looks to other teachers",
+      "yourChild": "Your Child",
+      "changePassword": "Change Child’s Password",
+      "deleteChildAccount": "Delete Child&apos;s Account",
+      "place": "Place"
+    },
+    "content": {
+      "petBlock": {
+        "hi": "Hi, I’m",
+        "age": "I’m %{age} days old.",
+        "nextGrowth": "days left until next growth",
+        "older": "I get older for 1 day every time when you gain a full scale of training in iDialogue App!",
+        "noPet": "You still do not have a pet?!?",
+        "install": " Install the iDialogue App on your smartphone and you can get your pet!",
+        "yourPetWillGrow": "Your pet will grow with your language level. You can customize your pet and choose your unique style!"
+      },
+      "weeklyVisits": {
+        "title": "Site visit statistic",
+        "lastDays": "Last 7 days",
+        "today": "Today",
+        "visited": "Visited",
+        "noActivity": "No Activity"
+      },
+      "progress": {
+        "progressInApp": "Progress in App",
+        "lastDays": "Last 7 days",
+        "today": "Today",
+        "noActivity": "No Activity",
+        "wellDone": "Well Done",
+        "good": "Good"
+      },
+      "videoCalls": {
+        "teacherTitle": "Video Calls",
+        "title": "Scheduled lessons and activities",
+        "noScheduledCalls": "No scheduled calls yet.",
+        "viewAll": "view all",
+        "noCalls": "No calls",
+        "youWillSee": "You will see scheduled calls here."
+      },
+      "postsAndChallenges": {
+        "title": "Posts & Challenges",
+        "postsCouldBeHere": "Your Posts could be here!",
+        "takeALook": "Take a look at the community section and tell everyone something interesting!",
+        "youCanDo": "You can do as many interesting posts as you want and get rewards for them!"
+      },
+      "debates": {
+        "title": "Debates",
+        "noDebatesFound": "No debates found"
+      },
+      "videoLessons": {
+        "title": "Video Lessons",
+        "noLectoriumFound": "No lectoriums found.",
+        "notFound": "No lessons found!",
+        "all": "All",
+        "onStudy": "ON STUDY",
+        "finished": "FINISHED"
+      },
+      "countryInfo": {
+        "about": "About",
+        "capital": "Capital",
+        "region": "Region",
+        "population": "Population",
+        "moreInformation": "More Information",
+        "openWikipedia": "Open Wikipedia"
+      }
+    }
+  },
+
+  "digitalPassport": {
+    "digitalPassport": "Digital Passport",
+    "visitedCountries": "Visited countries",
+    "numberOfTravels": "Number of travels",
+    "downloadPdf": "Download as PDF",
+    "downloadImage": "Download as Image",
+    "toDownloadClick": "To download click here"
+  },
+
+  "settings": {
+    "title": "Edit Your Profile",
+    "profile": "Profile",
+    "about": "About",
+    "password": "Password",
+    "successMessage": "Profile successfully updated!",
+    "fields": {
+      "firstNameLabel": "First Name",
+      "firstNamePlaceholder": "First Name",
+      "lastNameLabel": "Last Name",
+      "lastNamePlaceholder": "Last Name",
+      "countryLabel": "Select your country",
+      "countryPlaceholder": "Select country",
+      "usernameLabel": "Username",
+      "usernamePlaceholder": "Username",
+      "genderLabel": "Gender",
+      "genderPlaceholder": "Select Gender",
+      "yearOfBirthLabel": "Year of birth",
+      "groupLevelLabel": "Group English Level",
+      "groupLevelPlaceholder": "Select English Level",
+      "bioLabel": "Tell something about yourself",
+      "chooseInterestsLabel": "Choose Your Interests",
+      "passwordLabel": "Current password",
+      "passwordPlaceholder": "Type here",
+      "newPasswordLabel": "New password",
+      "repeatPasswordLabel": "Repeat password",
+      "passwordValidationError": "Password fields should match"
+    }
+  },
+
+  "friendsPage": {
+    "classmates": "CLASSMATES",
+    "friends": "FRIENDS",
+    "teacher": "TEACHER",
+    "receivedRequests": "RECEIVED REQUESTS",
+    "sentRequests": "SENT REQUESTS",
+    "buttons": {
+      "addToFriends": "Add to Friends",
+      "cancelRequest": "Cancel Request",
+      "goToChat": "Go to Chat",
+      "removeFromFriends": "Remove from friends",
+      "goToProfile": "Go to Profile"
+    }
+  },
+
+  "calls": {
+    "finishedCall": "Finished Call",
+    "yourCall": "Your Call",
+    "scheduledCall": "Scheduled Call",
+    "individualCall": "Individual Call",
+    "comingSoon": "COMING SOON",
+    "accessToCallWillOpen": "Access to the call room will open in <br /> %{ALLOWED_MINUTES_BEFORE_CALL} minute(s) before the start of the call",
+    "reloadPage": "If you want to return to the call, <br /> please reload the page by clicking on the button below!",
+    "reloadPageButton": "Reload the Page",
+    "thanksForParticipating": "Thank you for participating!",
+    "days": "DAYS",
+    "hours": "HOURS",
+    "minutes": "MINUTES",
+    "seconds": "SECONDS",
+    "jitsiUseMessage": " In order to share the screen with your students please use Chrome or Firefox browsers since they support video calls the best. We want to notify you that Safari doesn`&apos;t have the option of supporting screen -sharing activities.",
+    "maxTeachers": "Max teachers",
+    "downloadAttachment": "Download Attachment",
+    "shortcuts": {
+      "title": "Video Call Keyboard Shortcuts",
+      "mute": "Mute or unmute your microphone",
+      "startCamera": "Start or stop your camera",
+      "manageQuality": "Manage call quality",
+      "fullScreen": "View or exit full screen",
+      "switchBetween": "Switch between camera and screen sharing",
+      "showShortcuts": "Show or hide keyboard shortcuts"
+    }
+  },
+
+  "parent": {
+    "hello": "Hello",
+    "subscription": "Subscription period until",
+    "renew": "Renew Subscription",
+    "unlockPlace": "Unlock Additional Place",
+    "addChild": "+ Add your child",
+    "videoCallsWithTeacher": "Video calls with teacher"
+  },
+
+  "modals": {
+    "signIn": {
+      "please": "Please",
+      "signIn": "Sign In",
+      "toContinue": "to continue"
+    },
+    "notAllowed": {
+      "text": "This action is not available <br /> for your account"
+    },
+    "addCommentModal": {
+      "yourName": "Your name",
+      "yourComment": "Your comment",
+      "copySuccess": "Link has been copied"
+    },
+    "createDebate": {
+      "title": "Join Debates!",
+      "description": "Select a category and write a question or statement to start a debate!",
+      "fields": {
+        "questionPlaceholder": "Write your question or statement here...",
+        "selectPlaceholder": "Select...",
+        "descriptionPlaceholder": "Write description to your question or statement..."
+      },
+      "submit": "SUBMIT"
+    },
+    "call": {
+      "shareInviteLink": "Share Invite Link",
+      "joinedTeachers": "Joined Teachers",
+      "studentsCanJoinTheCall": "Students can join the call",
+      "joinedClassrooms": "Joined Classrooms",
+      "callDescription": "Call Description",
+      "videoCallsAvailableWith": "Video calls are only available with",
+      "downloadAttachment": "Download Attachment",
+      "youCanLeave": " You can leave the call only 24 hours before the start. <br /> If you cannot participate in the call, please contact your teacher!",
+      "cantParticipate": "If you cannot participate in the call, please contact the host of the call!",
+      "leaveCall": "Leave Call",
+      "declineCall": "Decline Call",
+      "declineCallConfirmation": "Are you sure you want to decline the call?",
+      "reserveSpot": "Reserve your spot",
+      "acceptCall": "Accept Call",
+      "maxTeachers": "Max teachers",
+      "callChat": "Call Chat"
+    },
+    "teacherReassignment": {
+      "title": "Teacher Reassignment",
+      "fields": {
+        "fieldLabel": "Enter New Teacher Code",
+        "placeholder": "Write here"
+      }
+    },
+    "childResetPassword": {
+      "title": "Change Password",
+      "fields": {
+        "passwordLabel": "New Child Password",
+        "passwordConfirmLabel": "New Repeat Password",
+        "placeholder": "Write here"
+      }
+    },
+    "addChild": {
+      "title": "Fill in the information about <br/> your child!",
+      "fields": {
+        "firstNameLabel": "First Name",
+        "usernameLabel": "Username",
+        "temporaryPasswordLabel": "Temporary Password",
+        "yearOfBirthLabel": "Year of birth",
+        "placeholder": "Write here",
+        "yearError": "Year of birth invalid, format should be like ex: 2002"
+      }
+    },
+    "deleteChild": {
+      "title": "will be deleted from iDialogue. <br /> Are you sure you want to continue?"
+    },
+    "subscriptionExpired": {
+      "title": "Your subscription to iDialogue <br/> Premium has expired!",
+      "text": "To continue using iDialogue Premium, <br/> renew your subscription by clicking on the <br/> 'Subscribe' button.",
+      "loginText": "To continue using iDialogue Premium, <br/> renew the subscription from a Parent <br/> Profile!",
+      "cancel": "Cancel",
+      "submit": "Subscribe"
+    }
+  }
+
+
+
+
+}

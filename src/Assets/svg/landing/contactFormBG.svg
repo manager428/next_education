@@ -1,0 +1,7 @@
+<svg width="575" height="550" viewBox="0 0 575 550" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M280 0H437.5C513.439 0 575 61.5608 575 137.5C575 213.439 513.439 275 437.5 275H280V0Z" fill="#8DE1D1"/>
+<path d="M280 275H575C575 426.878 451.878 550 300 550H280V275Z" fill="#FFA08C"/>
+<path d="M0 270L140 410H0V270Z" fill="#BAECE1"/>
+<path d="M0 410L140 550H0V410Z" fill="#BAECE1"/>
+<path d="M140 410L280 550H140V410Z" fill="#BAECE1"/>
+</svg>

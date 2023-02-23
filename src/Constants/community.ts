@@ -1,0 +1,17 @@
+export const COMMUNITY_POST_TAGS = [
+  'backtoschool',
+  'coronavirus',
+  'mylife',
+  'myschool',
+  'news',
+  'hobbies',
+  'sport',
+  'lookingforhelp',
+  'debates',
+  'environment',
+  'changemakers',
+  'holidays',
+  'technologies',
+  'photochallenge',
+  'happiness',
+]
